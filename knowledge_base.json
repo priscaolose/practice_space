@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "What is the weather like today?",
+      "answer": "It might be sunny or cloudy"
+    },
+    {
+      "question": "How are you?",
+      "answer": "good! Thanks for asking"
+    },
+    {
+      "question": "Hou you doing?",
+      "answer": "Great1"
+    }
+  ]
+}
